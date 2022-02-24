@@ -5,6 +5,7 @@ using System;
  {
     class Program
     {
+        /// Console.WriteLine() is C# print
         staticvoid Main (string [] args)
         {
             Console.WriteLine("Hello, World!");
